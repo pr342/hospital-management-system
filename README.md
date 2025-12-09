@@ -61,7 +61,7 @@ These demonstrate:
 
 * Real-time map generation
 * Robot navigation
-* Sensor data integration
+* Sensor data integration.
 * SLAM functionality in action
 
 ---
